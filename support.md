@@ -27,6 +27,10 @@ Yes, through your private iCloud database when you are signed into iCloud.
 Settings shows the sync status. Signing out of iCloud removes the synced
 copy from that device; sign back in to restore it.
 
+**Is there a paid version or subscription?**
+No. LidAndSeek is the whole app, free: no in-app purchases, no
+subscription, no item limits, no ads.
+
 **Can I get my data out?**
 Settings → Export Inventory CSV produces a spreadsheet of every item with
 its container, location, and label code.
