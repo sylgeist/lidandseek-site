@@ -1,0 +1,7 @@
+title: LidAndSeek
+description: Find anything you've stored.
+theme: minima
+show_excerpts: false
+header_pages:
+  - privacy.md
+  - support.md
