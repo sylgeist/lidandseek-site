@@ -27,9 +27,9 @@ Yes, through your private iCloud database when you are signed into iCloud.
 Settings shows the sync status. Signing out of iCloud removes the synced
 copy from that device; sign back in to restore it.
 
-**Is there a paid version or subscription?**
-No. LidAndSeek is the whole app, free: no in-app purchases, no
-subscription, no item limits, no ads.
+**Is there a subscription or a "pro" upgrade?**
+No. LidAndSeek is a one-time purchase: no in-app purchases, no
+subscription, no item limits, no ads. Everything is included.
 
 **Can I get my data out?**
 Settings → Export Inventory CSV produces a spreadsheet of every item with
@@ -51,7 +51,8 @@ moment. Damaged or very small codes may need reprinting.
 
 **Which NFC tags work?**
 Any writable NDEF tag (NTAG213/215/216 stickers are common and inexpensive).
-Write the label from the container's "…" menu.
+Write the label from the container's "…" menu. To read one, open the Scan
+tab, tap Read NFC Tag, and hold the top of your iPhone near the sticker.
 
 ## Contact
 
